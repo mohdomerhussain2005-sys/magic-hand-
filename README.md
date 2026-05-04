@@ -7,7 +7,7 @@
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10%2B-orange?style=flat-square)](https://mediapipe.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple?style=flat-square)](LICENSE)
 
-**📖 [View the full styled documentation →](https://your-username.github.io/magic-hand/)**
+
 
 ---
 
